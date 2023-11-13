@@ -28,9 +28,8 @@ class LoadableButtonWidget extends StatelessWidget {
       width: width,
       child: MaterialButton(
         onPressed: isLoading ? null : onPressed,
-        // textColor: contentsColor,
-        // color: buttonColor,
-        // disabledColor: buttonColor,
+        color: Theme.of(context).primaryColor,
+        textColor: Theme.of(context).colorScheme.onPrimary,
         child: isLoading
             ? SizedBox(
                 height: indicatorHeight,
