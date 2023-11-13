@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1045344710046",
+    "firebase_url": "https://daily-todo-8bec9-default-rtdb.firebaseio.com",
+    "project_id": "daily-todo-8bec9",
+    "storage_bucket": "daily-todo-8bec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045344710046:android:8a70afa459ddc9a0bafa8f",
+        "android_client_info": {
+          "package_name": "com.simprok.daily_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Y1P0uCCIEoqzxqQ6HBIvLWME8jsRsZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
